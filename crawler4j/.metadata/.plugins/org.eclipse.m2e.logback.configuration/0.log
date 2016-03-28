@@ -1,0 +1,552 @@
+2016-03-26 22:07:35,954 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/pom.xml
+2016-03-26 22:07:38,711 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: load.com:crawler4f-test:0.0.1-SNAPSHOT @ /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/pom.xml.
+2016-03-26 22:07:40,005 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crawler4f-test/src/main/java
+2016-03-26 22:07:40,030 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crawler4f-test/src/test/java
+2016-03-26 22:07:40,590 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-03-26 22:07:41,526 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:07:41,526 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 22:07:41,527 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:07:41,527 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 22:09:00,451 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: load.com:crawler4f-test:0.0.1-SNAPSHOT @ /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/pom.xml.
+2016-03-26 22:09:01,009 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:09:01,009 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 22:09:01,011 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:09:01,011 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 22:09:31,005 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: load.com:crawler4f-test:0.0.1-SNAPSHOT @ /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/pom.xml.
+2016-03-26 22:09:39,483 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/edu/uci/ics/crawler4j/4.2/crawler4j-4.2.pom
+2016-03-26 22:09:40,258 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/edu/uci/ics/crawler4j/4.2/crawler4j-4.2.pom
+2016-03-26 22:09:40,398 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.pom
+2016-03-26 22:09:40,831 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.pom
+2016-03-26 22:09:41,448 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-parent/1.7.10/slf4j-parent-1.7.10.pom
+2016-03-26 22:09:42,970 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-parent/1.7.10/slf4j-parent-1.7.10.pom
+2016-03-26 22:09:55,584 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/uk/org/lidalia/lidalia-slf4j-ext/1.0.0/lidalia-slf4j-ext-1.0.0.pom
+2016-03-26 22:09:55,689 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/uk/org/lidalia/lidalia-slf4j-ext/1.0.0/lidalia-slf4j-ext-1.0.0.pom
+2016-03-26 22:09:58,042 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/uk/org/lidalia/opensource-single-module-project/1.0.0/opensource-single-module-project-1.0.0.pom
+2016-03-26 22:09:59,262 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/uk/org/lidalia/opensource-single-module-project/1.0.0/opensource-single-module-project-1.0.0.pom
+2016-03-26 22:10:00,637 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/uk/org/lidalia/parent/1.0.0/parent-1.0.0.pom
+2016-03-26 22:10:01,254 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/uk/org/lidalia/parent/1.0.0/parent-1.0.0.pom
+2016-03-26 22:10:03,256 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/uk/org/lidalia/oss-deployable/1.2.0/oss-deployable-1.2.0.pom
+2016-03-26 22:10:03,615 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/uk/org/lidalia/oss-deployable/1.2.0/oss-deployable-1.2.0.pom
+2016-03-26 22:10:04,177 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2016-03-26 22:10:04,401 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2016-03-26 22:10:04,973 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2016-03-26 22:10:05,256 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2016-03-26 22:10:05,816 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.pom
+2016-03-26 22:10:06,003 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.pom
+2016-03-26 22:10:18,309 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcomponents-client/4.4/httpcomponents-client-4.4.pom
+2016-03-26 22:10:20,164 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcomponents-client/4.4/httpcomponents-client-4.4.pom
+2016-03-26 22:10:21,394 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.pom
+2016-03-26 22:10:23,228 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.pom
+2016-03-26 22:10:29,986 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcomponents-core/4.4/httpcomponents-core-4.4.pom
+2016-03-26 22:10:30,661 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcomponents-core/4.4/httpcomponents-core-4.4.pom
+2016-03-26 22:10:30,779 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2016-03-26 22:10:31,350 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2016-03-26 22:10:31,537 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2016-03-26 22:10:32,474 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2016-03-26 22:10:32,586 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2016-03-26 22:10:33,055 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2016-03-26 22:10:33,210 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2016-03-26 22:10:34,061 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2016-03-26 22:10:34,419 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/sleepycat/je/5.0.73/je-5.0.73.pom
+2016-03-26 22:10:34,545 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/sleepycat/je/5.0.73/je-5.0.73.pom
+2016-03-26 22:10:34,719 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parsers/1.5/tika-parsers-1.5.pom
+2016-03-26 22:10:34,940 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parsers/1.5/tika-parsers-1.5.pom
+2016-03-26 22:10:35,743 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parent/1.5/tika-parent-1.5.pom
+2016-03-26 22:10:36,408 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parent/1.5/tika-parent-1.5.pom
+2016-03-26 22:10:36,576 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-core/1.5/tika-core-1.5.pom
+2016-03-26 22:10:36,894 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-core/1.5/tika-core-1.5.pom
+2016-03-26 22:10:37,191 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1.pom
+2016-03-26 22:10:37,286 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1.pom
+2016-03-26 22:10:37,380 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-parent/0.1/vorbis-java-parent-0.1.pom
+2016-03-26 22:10:37,597 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-parent/0.1/vorbis-java-parent-0.1.pom
+2016-03-26 22:10:37,713 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1.pom
+2016-03-26 22:10:37,840 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1.pom
+2016-03-26 22:10:37,945 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-core/1.0/tika-core-1.0.pom
+2016-03-26 22:10:38,065 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-core/1.0/tika-core-1.0.pom
+2016-03-26 22:10:38,175 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parent/1.0/tika-parent-1.0.pom
+2016-03-26 22:10:38,383 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parent/1.0/tika-parent-1.0.pom
+2016-03-26 22:10:38,480 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.pom
+2016-03-26 22:10:38,589 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.pom
+2016-03-26 22:10:38,759 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.pom
+2016-03-26 22:10:38,922 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.pom
+2016-03-26 22:10:39,061 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-project/0.7.2/apache-mime4j-project-0.7.2.pom
+2016-03-26 22:10:39,255 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-project/0.7.2/apache-mime4j-project-0.7.2.pom
+2016-03-26 22:10:39,355 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/james/james-project/1.8/james-project-1.8.pom
+2016-03-26 22:10:39,804 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/james/james-project/1.8/james-project-1.8.pom
+2016-03-26 22:10:39,973 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.pom
+2016-03-26 22:10:40,087 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.pom
+2016-03-26 22:10:40,433 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2016-03-26 22:10:41,352 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2016-03-26 22:10:41,488 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/tukaani/xz/1.2/xz-1.2.pom
+2016-03-26 22:10:41,587 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/tukaani/xz/1.2/xz-1.2.pom
+2016-03-26 22:10:41,681 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/commons-codec/commons-codec/1.5/commons-codec-1.5.pom
+2016-03-26 22:10:41,919 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/commons-codec/commons-codec/1.5/commons-codec-1.5.pom
+2016-03-26 22:10:42,027 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/commons/commons-parent/20/commons-parent-20.pom
+2016-03-26 22:10:42,529 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/commons/commons-parent/20/commons-parent-20.pom
+2016-03-26 22:10:43,354 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/pdfbox/1.8.4/pdfbox-1.8.4.pom
+2016-03-26 22:10:44,014 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/pdfbox/1.8.4/pdfbox-1.8.4.pom
+2016-03-26 22:10:44,354 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/pdfbox-parent/1.8.4/pdfbox-parent-1.8.4.pom
+2016-03-26 22:10:46,277 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/pdfbox-parent/1.8.4/pdfbox-parent-1.8.4.pom
+2016-03-26 22:10:56,094 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/fontbox/1.8.4/fontbox-1.8.4.pom
+2016-03-26 22:10:56,280 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/fontbox/1.8.4/fontbox-1.8.4.pom
+2016-03-26 22:10:56,402 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/jempbox/1.8.4/jempbox-1.8.4.pom
+2016-03-26 22:10:56,581 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/jempbox/1.8.4/jempbox-1.8.4.pom
+2016-03-26 22:10:56,778 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.pom
+2016-03-26 22:10:56,888 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.pom
+2016-03-26 22:10:57,023 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.pom
+2016-03-26 22:10:57,152 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.pom
+2016-03-26 22:10:57,328 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi/3.10-beta2/poi-3.10-beta2.pom
+2016-03-26 22:10:57,451 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi/3.10-beta2/poi-3.10-beta2.pom
+2016-03-26 22:10:59,560 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi-scratchpad/3.10-beta2/poi-scratchpad-3.10-beta2.pom
+2016-03-26 22:10:59,841 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi-scratchpad/3.10-beta2/poi-scratchpad-3.10-beta2.pom
+2016-03-26 22:11:00,080 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml/3.10-beta2/poi-ooxml-3.10-beta2.pom
+2016-03-26 22:11:00,880 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml/3.10-beta2/poi-ooxml-3.10-beta2.pom
+2016-03-26 22:11:01,015 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml-schemas/3.10-beta2/poi-ooxml-schemas-3.10-beta2.pom
+2016-03-26 22:11:01,178 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml-schemas/3.10-beta2/poi-ooxml-schemas-3.10-beta2.pom
+2016-03-26 22:11:01,624 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.pom
+2016-03-26 22:11:01,759 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.pom
+2016-03-26 22:11:01,962 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2016-03-26 22:11:02,645 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2016-03-26 22:11:08,074 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.pom
+2016-03-26 22:11:08,181 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.pom
+2016-03-26 22:11:08,688 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/geronimo/specs/specs/1.3/specs-1.3.pom
+2016-03-26 22:11:08,921 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/geronimo/specs/specs/1.3/specs-1.3.pom
+2016-03-26 22:11:09,044 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/geronimo/genesis/config/project-config/1.1/project-config-1.1.pom
+2016-03-26 22:11:09,274 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/geronimo/genesis/config/project-config/1.1/project-config-1.1.pom
+2016-03-26 22:11:09,428 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/geronimo/genesis/config/config/1.1/config-1.1.pom
+2016-03-26 22:11:09,533 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/geronimo/genesis/config/config/1.1/config-1.1.pom
+2016-03-26 22:11:09,641 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/geronimo/genesis/genesis/1.1/genesis-1.1.pom
+2016-03-26 22:11:09,733 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/geronimo/genesis/genesis/1.1/genesis-1.1.pom
+2016-03-26 22:11:09,889 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.pom
+2016-03-26 22:11:09,991 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.pom
+2016-03-26 22:11:10,293 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.pom
+2016-03-26 22:11:10,396 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.pom
+2016-03-26 22:11:10,839 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/ow2/asm/asm-parent/4.1/asm-parent-4.1.pom
+2016-03-26 22:11:11,454 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/ow2/asm/asm-parent/4.1/asm-parent-4.1.pom
+2016-03-26 22:11:11,652 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/ow2/ow2/1.3/ow2-1.3.pom
+2016-03-26 22:11:12,090 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/ow2/ow2/1.3/ow2-1.3.pom
+2016-03-26 22:11:12,226 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1.pom
+2016-03-26 22:11:12,429 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1.pom
+2016-03-26 22:11:12,542 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/aspectj/aspectjrt/1.6.11/aspectjrt-1.6.11.pom
+2016-03-26 22:11:12,632 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/aspectj/aspectjrt/1.6.11/aspectjrt-1.6.11.pom
+2016-03-26 22:11:14,757 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2.pom
+2016-03-26 22:11:17,294 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2.pom
+2016-03-26 22:11:17,904 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.pom
+2016-03-26 22:11:18,347 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.pom
+2016-03-26 22:11:18,837 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+2016-03-26 22:11:19,020 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+2016-03-26 22:11:19,440 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-03-26 22:11:20,369 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-03-26 22:11:20,976 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/de/l3s/boilerpipe/boilerpipe/1.1.0/boilerpipe-1.1.0.pom
+2016-03-26 22:11:21,201 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/de/l3s/boilerpipe/boilerpipe/1.1.0/boilerpipe-1.1.0.pom
+2016-03-26 22:11:21,487 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/rome/rome/0.9/rome-0.9.pom
+2016-03-26 22:11:21,742 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/rome/rome/0.9/rome-0.9.pom
+2016-03-26 22:11:21,962 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/jdom/jdom/1.0/jdom-1.0.pom
+2016-03-26 22:11:22,138 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/jdom/jdom/1.0/jdom-1.0.pom
+2016-03-26 22:11:22,320 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/uwyn/jhighlight/1.0/jhighlight-1.0.pom
+2016-03-26 22:11:22,452 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/uwyn/jhighlight/1.0/jhighlight-1.0.pom
+2016-03-26 22:11:22,642 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/edu/uci/ics/crawler4j/4.2/crawler4j-4.2.jar
+2016-03-26 22:11:24,505 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/edu/uci/ics/crawler4j/4.2/crawler4j-4.2.jar
+2016-03-26 22:11:24,602 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar
+2016-03-26 22:11:24,870 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar
+2016-03-26 22:11:25,058 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/uk/org/lidalia/lidalia-slf4j-ext/1.0.0/lidalia-slf4j-ext-1.0.0.jar
+2016-03-26 22:11:25,153 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/uk/org/lidalia/lidalia-slf4j-ext/1.0.0/lidalia-slf4j-ext-1.0.0.jar
+2016-03-26 22:11:25,346 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+2016-03-26 22:11:49,293 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+2016-03-26 22:11:49,506 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar
+2016-03-26 22:11:51,131 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar
+2016-03-26 22:11:51,755 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar
+2016-03-26 22:11:53,848 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar
+2016-03-26 22:11:53,963 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2016-03-26 22:11:54,351 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2016-03-26 22:11:54,543 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2016-03-26 22:11:55,699 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2016-03-26 22:11:55,794 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/sleepycat/je/5.0.73/je-5.0.73.jar
+2016-03-26 22:12:10,322 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/sleepycat/je/5.0.73/je-5.0.73.jar
+2016-03-26 22:12:10,828 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parsers/1.5/tika-parsers-1.5.jar
+2016-03-26 22:12:13,199 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-parsers/1.5/tika-parsers-1.5.jar
+2016-03-26 22:12:13,507 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/tika/tika-core/1.5/tika-core-1.5.jar
+2016-03-26 22:12:16,681 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/tika/tika-core/1.5/tika-core-1.5.jar
+2016-03-26 22:12:16,825 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1.jar
+2016-03-26 22:12:16,953 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1.jar
+2016-03-26 22:12:17,501 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1-tests.jar
+2016-03-26 22:12:17,706 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1-tests.jar
+2016-03-26 22:12:18,438 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
+2016-03-26 22:13:04,712 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
+2016-03-26 22:13:05,127 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar
+2016-03-26 22:13:05,696 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar
+2016-03-26 22:13:05,858 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.jar
+2016-03-26 22:13:06,950 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.jar
+2016-03-26 22:13:07,129 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2016-03-26 22:13:10,165 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2016-03-26 22:13:10,337 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/tukaani/xz/1.2/xz-1.2.jar
+2016-03-26 22:13:11,038 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/tukaani/xz/1.2/xz-1.2.jar
+2016-03-26 22:13:11,376 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/pdfbox/1.8.4/pdfbox-1.8.4.jar
+2016-03-26 22:13:44,282 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/pdfbox/1.8.4/pdfbox-1.8.4.jar
+2016-03-26 22:13:44,453 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/fontbox/1.8.4/fontbox-1.8.4.jar
+2016-03-26 22:13:44,755 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/fontbox/1.8.4/fontbox-1.8.4.jar
+2016-03-26 22:13:45,267 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/pdfbox/jempbox/1.8.4/jempbox-1.8.4.jar
+2016-03-26 22:13:45,384 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/pdfbox/jempbox/1.8.4/jempbox-1.8.4.jar
+2016-03-26 22:13:45,897 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.jar
+2016-03-26 22:13:46,414 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.jar
+2016-03-26 22:13:46,711 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.jar
+2016-03-26 22:13:51,811 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.jar
+2016-03-26 22:13:54,187 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi/3.10-beta2/poi-3.10-beta2.jar
+2016-03-26 22:14:14,236 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi/3.10-beta2/poi-3.10-beta2.jar
+2016-03-26 22:14:14,556 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi-scratchpad/3.10-beta2/poi-scratchpad-3.10-beta2.jar
+2016-03-26 22:14:16,167 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi-scratchpad/3.10-beta2/poi-scratchpad-3.10-beta2.jar
+2016-03-26 22:14:16,287 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml/3.10-beta2/poi-ooxml-3.10-beta2.jar
+2016-03-26 22:14:20,996 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml/3.10-beta2/poi-ooxml-3.10-beta2.jar
+2016-03-26 22:14:21,101 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml-schemas/3.10-beta2/poi-ooxml-schemas-3.10-beta2.jar
+2016-03-26 22:14:56,940 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/poi/poi-ooxml-schemas/3.10-beta2/poi-ooxml-schemas-3.10-beta2.jar
+2016-03-26 22:14:57,857 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar
+2016-03-26 22:15:19,520 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar
+2016-03-26 22:15:21,000 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2016-03-26 22:15:24,184 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2016-03-26 22:15:24,788 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar
+2016-03-26 22:15:25,202 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar
+2016-03-26 22:15:25,381 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar
+2016-03-26 22:15:25,712 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar
+2016-03-26 22:15:25,998 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar
+2016-03-26 22:15:27,240 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar
+2016-03-26 22:15:27,388 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1.jar
+2016-03-26 22:15:28,642 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1.jar
+2016-03-26 22:15:28,767 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/aspectj/aspectjrt/1.6.11/aspectjrt-1.6.11.jar
+2016-03-26 22:15:29,255 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/aspectj/aspectjrt/1.6.11/aspectjrt-1.6.11.jar
+2016-03-26 22:15:29,345 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2.jar
+2016-03-26 22:15:30,453 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/drewnoakes/metadata-extractor/2.6.2/metadata-extractor-2.6.2.jar
+2016-03-26 22:15:30,541 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.jar
+2016-03-26 22:15:31,074 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.jar
+2016-03-26 22:15:31,164 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar
+2016-03-26 22:15:40,539 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar
+2016-03-26 22:15:40,639 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar
+2016-03-26 22:15:42,453 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar
+2016-03-26 22:15:42,559 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/de/l3s/boilerpipe/boilerpipe/1.1.0/boilerpipe-1.1.0.jar
+2016-03-26 22:15:42,984 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/de/l3s/boilerpipe/boilerpipe/1.1.0/boilerpipe-1.1.0.jar
+2016-03-26 22:15:43,262 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/rome/rome/0.9/rome-0.9.jar
+2016-03-26 22:15:44,132 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/rome/rome/0.9/rome-0.9.jar
+2016-03-26 22:15:44,450 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/jdom/jdom/1.0/jdom-1.0.jar
+2016-03-26 22:15:45,626 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/jdom/jdom/1.0/jdom-1.0.jar
+2016-03-26 22:15:47,413 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1.jar
+2016-03-26 22:15:51,913 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1.jar
+2016-03-26 22:15:52,032 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/com/uwyn/jhighlight/1.0/jhighlight-1.0.jar
+2016-03-26 22:15:52,864 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/com/uwyn/jhighlight/1.0/jhighlight-1.0.jar
+2016-03-26 22:15:53,529 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:15:53,529 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 22:15:53,530 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:15:53,530 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 22:15:55,157 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:15:55,158 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 22:15:55,158 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 22:15:55,158 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:11:31,744 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:11:31,749 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:11:31,749 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:11:31,750 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:11:32,766 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:11:32,766 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:11:32,767 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:11:32,767 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:12:24,535 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/edu/uci/ics/crawler4j/4.2/crawler4j-4.2-sources.jar
+2016-03-26 23:12:30,782 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/edu/uci/ics/crawler4j/4.2/crawler4j-4.2-sources.jar
+2016-03-26 23:12:30,913 [Worker-39] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for edu.uci.ics:crawler4j:4.2
+2016-03-26 23:12:31,078 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:12:31,078 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:12:31,079 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:12:31,079 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:19:36,183 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:19:36,194 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:19:36,195 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:19:36,195 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:21:10,456 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:21:10,465 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:21:10,466 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:21:10,466 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:25:09,083 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:25:09,098 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:25:09,099 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:25:09,099 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:26:09,291 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:26:09,292 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:26:09,292 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:26:09,292 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:26:59,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:26:59,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:26:59,949 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:26:59,949 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:28:58,795 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:28:58,807 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:28:58,808 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:28:58,808 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:29:07,974 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:29:07,985 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:29:07,986 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:29:07,986 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:30:56,863 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:30:56,863 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:30:56,864 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:30:56,864 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:33:30,936 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:33:30,943 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:33:30,944 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:33:30,944 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:36:46,961 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:36:46,975 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:36:46,976 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:36:46,976 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:45:41,684 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:45:41,700 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:45:41,701 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:45:41,701 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-26 23:47:13,122 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:47:13,123 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-26 23:47:13,123 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-26 23:47:13,123 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 00:24:13,877 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 00:24:13,889 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 00:24:13,890 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 00:24:13,890 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:19:35,074 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:19:35,085 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:19:35,086 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:19:35,086 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:19:54,130 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:19:54,130 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:19:54,131 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:19:54,131 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:21:07,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:21:07,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:21:07,215 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:21:07,215 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:21:45,804 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:21:45,804 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:21:45,805 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:21:45,805 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:23:09,155 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:23:09,155 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:23:09,156 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:23:09,156 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:25:43,997 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:25:43,997 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:25:43,998 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:25:43,998 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:31:23,847 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:31:23,847 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:31:23,848 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:31:23,848 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:35:33,472 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:35:33,472 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:35:33,474 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:35:33,474 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:39:39,115 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/edu/ucar/netcdf/4.2-min/netcdf-4.2-min-sources.jar
+2016-03-27 15:39:41,682 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/edu/ucar/netcdf/4.2-min/netcdf-4.2-min-sources.jar
+2016-03-27 15:39:41,812 [Worker-22] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for edu.ucar:netcdf:4.2-min
+2016-03-27 15:39:42,040 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:39:42,040 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:39:42,040 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:39:42,040 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:42:44,054 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:42:44,054 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:42:44,055 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:42:44,055 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:49:22,093 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: load.com:crawler4f-test:0.0.1-SNAPSHOT @ /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/pom.xml.
+2016-03-27 15:49:28,919 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2016-03-27 15:49:29,841 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2016-03-27 15:49:30,762 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.oschina.net/content/groups/public/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2016-03-27 15:49:45,550 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.oschina.net/content/groups/public/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2016-03-27 15:49:45,843 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:49:45,843 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:49:45,844 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:49:45,844 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 15:49:47,304 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:49:47,304 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 15:49:47,305 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 15:49:47,305 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 16:18:19,195 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:18:19,196 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 16:18:19,197 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:18:19,197 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 16:18:26,882 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:18:26,883 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 16:18:26,883 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:18:26,883 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 16:18:30,083 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:18:30,083 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 16:18:30,084 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:18:30,084 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 16:23:47,412 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:23:47,412 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 16:23:47,412 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:23:47,413 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 16:25:56,274 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:25:56,274 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 16:25:56,274 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 16:25:56,275 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/Documents/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:01:15,327 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: load.com:crawler4f-test:0.0.1-SNAPSHOT @ /Users/load/code/my-code/crawler4j/test/crawler4f-test/pom.xml.
+2016-03-27 18:01:16,916 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crawler4f-test/src/main/java
+2016-03-27 18:01:16,916 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crawler4f-test/src/test/java
+2016-03-27 18:01:17,078 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-03-27 18:01:19,811 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:01:19,811 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:01:19,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:01:19,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:19:20,098 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:19:20,127 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:19:20,129 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:19:20,129 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:19:36,860 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:19:36,861 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:19:36,862 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:19:36,862 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:20:07,750 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:20:07,765 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:20:07,766 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:20:07,766 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:20:33,542 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:20:33,545 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:20:33,546 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:20:33,546 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:20:47,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:20:47,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:20:47,576 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:20:47,576 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:21:21,443 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:21:21,446 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:21:21,446 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:21:21,447 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:21:31,504 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:21:31,504 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:21:31,505 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:21:31,505 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:21:54,005 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:21:54,005 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:21:54,007 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:21:54,007 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:22:04,503 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:22:04,513 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:22:04,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:22:04,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:30:30,733 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:30:30,753 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:30:30,754 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:30:30,754 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:31:09,822 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:31:09,822 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:31:09,823 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:31:09,823 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 18:31:40,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:31:40,037 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 18:31:40,037 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 18:31:40,037 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 19:03:25,664 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 19:03:25,664 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 19:03:25,665 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 19:03:25,665 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 19:06:24,807 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 19:06:24,808 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 19:06:24,808 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 19:06:24,808 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:01:40,071 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:01:40,077 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:01:40,078 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:01:40,078 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:05:15,607 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:05:15,607 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:05:15,609 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:05:15,609 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:13:08,270 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:13:08,270 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:13:08,271 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:13:08,271 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:14:29,528 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:14:29,528 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:14:29,529 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:14:29,529 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:16:21,047 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:16:21,047 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:16:21,048 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:16:21,048 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:32:50,692 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:32:50,706 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:32:50,708 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:32:50,708 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:38:06,656 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:38:06,667 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:38:06,667 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:38:06,667 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:52:25,746 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:52:25,761 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:52:25,761 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:52:25,761 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 22:52:44,768 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:52:44,768 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 22:52:44,769 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 22:52:44,769 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:06:35,224 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:06:35,249 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:06:35,250 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:06:35,250 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:08:26,374 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:08:26,375 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:08:26,375 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:08:26,375 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:09:18,101 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:09:18,102 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:09:18,102 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:09:18,102 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:32:17,466 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:32:17,479 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:32:17,480 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:32:17,480 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:33:16,342 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:33:16,358 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:33:16,358 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:33:16,358 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:33:59,653 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:33:59,669 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:33:59,670 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:33:59,670 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:42:12,962 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:42:12,977 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:42:12,977 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:42:12,978 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:49:29,046 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:49:29,062 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:49:29,062 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:49:29,062 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:49:50,003 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:49:50,003 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:49:50,004 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:49:50,004 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:51:56,893 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:51:56,897 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:51:56,898 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:51:56,898 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-27 23:52:46,215 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:52:46,231 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-27 23:52:46,233 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-27 23:52:46,234 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-28 00:21:26,466 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:21:26,483 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-28 00:21:26,484 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:21:26,484 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-28 00:21:33,205 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:21:33,205 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-28 00:21:33,205 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:21:33,205 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-28 00:29:16,085 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:29:16,085 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-28 00:29:16,085 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:29:16,085 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-28 00:32:26,891 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:32:26,892 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-28 00:32:26,892 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:32:26,892 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-28 00:34:22,237 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:34:22,237 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-28 00:34:22,238 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:34:22,238 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
+2016-03-28 00:38:59,504 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:38:59,504 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/main/resources
+2016-03-28 00:38:59,505 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-28 00:38:59,505 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/load/code/my-code/crawler4j/test/crawler4f-test/src/test/resources
